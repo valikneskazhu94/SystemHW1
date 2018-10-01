@@ -1,0 +1,9 @@
+c:\users\mak\documents\visual studio 2017\Projects\SytemProgHW1\SytemProgHW1\bin\Debug\SytemProgHW1.exe.config
+c:\users\mak\documents\visual studio 2017\Projects\SytemProgHW1\SytemProgHW1\bin\Debug\SytemProgHW1.exe
+c:\users\mak\documents\visual studio 2017\Projects\SytemProgHW1\SytemProgHW1\bin\Debug\SytemProgHW1.pdb
+c:\users\mak\documents\visual studio 2017\Projects\SytemProgHW1\SytemProgHW1\obj\Debug\SytemProgHW1.csprojResolveAssemblyReference.cache
+c:\users\mak\documents\visual studio 2017\Projects\SytemProgHW1\SytemProgHW1\obj\Debug\SytemProgHW1.Form1.resources
+c:\users\mak\documents\visual studio 2017\Projects\SytemProgHW1\SytemProgHW1\obj\Debug\SytemProgHW1.Properties.Resources.resources
+c:\users\mak\documents\visual studio 2017\Projects\SytemProgHW1\SytemProgHW1\obj\Debug\SytemProgHW1.csproj.GenerateResource.Cache
+c:\users\mak\documents\visual studio 2017\Projects\SytemProgHW1\SytemProgHW1\obj\Debug\SytemProgHW1.exe
+c:\users\mak\documents\visual studio 2017\Projects\SytemProgHW1\SytemProgHW1\obj\Debug\SytemProgHW1.pdb
